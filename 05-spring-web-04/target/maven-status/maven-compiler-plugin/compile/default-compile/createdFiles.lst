@@ -1,0 +1,6 @@
+com\sxt\config\WebConfig.class
+com\sxt\config\SecurityConfig.class
+com\sxt\config\RootConfig.class
+com\sxt\config\SecurityWebInitializer.class
+com\sxt\config\SpittrWebAppInitializer.class
+com\sxt\controller\HomeController.class

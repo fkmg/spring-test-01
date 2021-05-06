@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56719aa5-fc8a-46c2-9bb3-8604e85962ba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/spring-mvc-shiro-01/target/" />
+    <ignored path="$PROJECT_DIR$/01-spring-test-01/target/" />
+    <ignored path="$PROJECT_DIR$/02-spring-web-01/target/" />
+    <ignored path="$PROJECT_DIR$/03-spring-web-02/target/" />
+    <ignored path="$PROJECT_DIR$/04-spring-web-03/target/" />
+    <ignored path="$PROJECT_DIR$/05-spring-web-04/target/" />
+    <ignored path="$PROJECT_DIR$/06-spring-nitty/target/" />
+    <ignored path="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/target/" />
+    <ignored path="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/target/" />
+    <ignored path="$PROJECT_DIR$/07-spring-lucene/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spring$TestExpressiveConfig_testExpressiveConfig.ic" NAME="TestExpressiveConfig.testExpressiveConfig Coverage Results" MODIFIED="1596030766713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.sxt.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/test/java/com/sxt/test/map/TestMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Study1/jdk/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="692" column="34" selection-start-line="692" selection-start-column="34" selection-end-line="692" selection-end-column="34" />
+              <folding>
+                <element signature="e#19072#19073#0" expanded="true" />
+                <element signature="e#19130#19131#0" expanded="true" />
+                <element signature="e#19296#19297#0" expanded="true" />
+                <element signature="e#19379#19380#0" expanded="true" />
+                <element signature="e#24298#24299#0" expanded="true" />
+                <element signature="e#24363#24364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-spring-lucene/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-spring-lucene/src/test/java/com/sxt/test/TestLucene.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-spring-nitty/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="24" column="17" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/nio/NioSelectorServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1431">
+              <caret line="59" column="54" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/handler/NettyServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11664">
+              <caret line="484" column="29" selection-start-line="484" selection-start-column="29" selection-end-line="484" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/SelectionKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5049">
+              <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
+              <folding>
+                <element signature="e#14414#14415#0" expanded="true" />
+                <element signature="e#14447#14448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getUserByAccount</find>
+      <find>ResultUserMap</find>
+      <find>floor</find>
+      <find>contextClass</find>
+      <find>expected</find>
+      <find>saltGenerator</find>
+      <find>tymeleaf</find>
+      <find>System.out.println(</find>
+      <find>SelectorProvider</find>
+      <find>openServerSocketChannel</find>
+      <find>AbstractUnsafe.this.register0(promise)`</find>
+      <find>unsafe</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LOGGER.info(</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\javaworkspace2\workspace\spring\01-spring-test-01\src\main\java\com\sxt\config</dir>
+      <dir>G:\javaworkspace2\workspace\spring\01-spring-test-01\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/controller/MyWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/filter/FilterApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/filter/MyFilter.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/config/FilterApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/config/MyWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/servlet/Myservlet.java" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/config/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/java/com/sxt/config/MultipartWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/04-spring-web-03/src/main/java/com/sxt/config/SecurityWebInitializer.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/resources/applicationContext-servlet.xml" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/resources/applicationContext-spring.xml" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/SelefPassWordEncoder.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/SecurityWebInitializer.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/RootConfig.java" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/webapp/WEB-INF/templates/login.html" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/src/main/java/com/sxt/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/java/com/sxt/bean/Emp.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/java/com/sxt/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/04-spring-web-03/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc-shiro-01/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/bio/SocketClient.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/Nio/NioSelectorServer.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOClient.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOServer.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/java/com/sxt/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/src/main/java/com/sxt/utils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/01-spring-test-01/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-test-01/src/main/java/com/sxt/aop/TrackCounter.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/server/NettyServer.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/client/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/handler/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/client/NettyClient.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/handler/NettyServerHandler.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/bio/SocketServer.java" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/test/java/com/sxt/test/map/TestMap.java" />
+        <option value="$PROJECT_DIR$/07-spring-lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-lucene/src/test/java/com/sxt/test/TestLucene.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/java/MVN/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="G:\java\MVN\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="01-spring-netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="05-spring-web-04" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="05-spring-web-04" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="06-spring-nitty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-mvc-shiro-01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-mvc-shiro-01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-mvc-shiro-01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620312623420" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\javaworkspace2\workspace\spring\03-spring-web-02\src\main\webapp" />
+      <recent name="G:\javaworkspace2\workspace\spring\spring-mvc-shiro-01\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sxt.controller" />
+      <recent name="com.sxt.service" />
+      <recent name="com.sxt.service.impl" />
+      <recent name="com.sxt.aop" />
+      <recent name="com.sxt.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\javaworkspace2\workspace\spring\06-spring-nitty\spring-netty-02\src\main\resources" />
+      <recent name="G:\javaworkspace2\workspace\spring\06-spring-nitty\spring-netty-01\src\main\resources" />
+      <recent name="G:\javaworkspace2\workspace\spring\03-spring-web-02\src\main\java\com\sxt\utils" />
+      <recent name="G:\javaworkspace2\workspace\spring\05-spring-web-04\src\main\resources" />
+      <recent name="G:\javaworkspace2\workspace\spring\03-spring-web-02\src\main\webapp\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.aio.AIOClient" />
+      <module name="spring-netty-01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.aio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.aio.AIOServer" />
+      <module name="spring-netty-01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.aio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.netty.client.NettyClient" />
+      <module name="spring-netty-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.netty.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.netty.server.NettyServer" />
+      <module name="spring-netty-02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.netty.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioSelectorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxt.nio.NioSelectorServer" />
+      <module name="spring-netty-01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxt.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02-spring-web-01" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/02-spring-web-01" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="02-spring-web-02" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/03-spring-web-02" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="05-spring-web-04" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/05-spring-web-04" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="springmvc-shiro-01" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/spring-mvc-shiro-01" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NioSelectorServer" />
+      <item itemvalue="Application.AIOClient" />
+      <item itemvalue="Application.AIOServer" />
+      <item itemvalue="Application.NettyServer" />
+      <item itemvalue="Application.NettyClient" />
+      <item itemvalue="Maven.02-spring-web-01" />
+      <item itemvalue="Maven.02-spring-web-02" />
+      <item itemvalue="Maven.05-spring-web-04" />
+      <item itemvalue="Maven.springmvc-shiro-01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.AIOClient" />
+        <item itemvalue="Application.AIOServer" />
+        <item itemvalue="Application.NioSelectorServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56719aa5-fc8a-46c2-9bb3-8604e85962ba" name="Default Changelist" comment="" />
+      <created>1593187191570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593187191570</updated>
+      <workItem from="1593187198002" duration="185000" />
+      <workItem from="1593230342176" duration="6210000" />
+      <workItem from="1593350192635" duration="6189000" />
+      <workItem from="1593441061165" duration="597000" />
+      <workItem from="1593524956189" duration="3115000" />
+      <workItem from="1593610844047" duration="1159000" />
+      <workItem from="1593698163104" duration="6788000" />
+      <workItem from="1593787950099" duration="6296000" />
+      <workItem from="1593865392325" duration="2644000" />
+      <workItem from="1593922899454" duration="637000" />
+      <workItem from="1593957857720" duration="2302000" />
+      <workItem from="1594043801509" duration="2078000" />
+      <workItem from="1594734284330" duration="2036000" />
+      <workItem from="1595769506236" duration="6699000" />
+      <workItem from="1595859111383" duration="2483000" />
+      <workItem from="1595940962588" duration="4653000" />
+      <workItem from="1596026530539" duration="3084000" />
+      <workItem from="1596115824601" duration="598000" />
+      <workItem from="1596259781893" duration="8245000" />
+      <workItem from="1596463276288" duration="865000" />
+      <workItem from="1597066529657" duration="3978000" />
+      <workItem from="1597070943204" duration="792000" />
+      <workItem from="1597148489318" duration="5481000" />
+      <workItem from="1597239390321" duration="597000" />
+      <workItem from="1597327026228" duration="1533000" />
+      <workItem from="1597329592869" duration="4434000" />
+      <workItem from="1597567584294" duration="8961000" />
+      <workItem from="1597671128458" duration="588000" />
+      <workItem from="1598881073193" duration="4958000" />
+      <workItem from="1598960872091" duration="7270000" />
+      <workItem from="1599051655450" duration="2658000" />
+      <workItem from="1599136109916" duration="586000" />
+      <workItem from="1599398397704" duration="1380000" />
+      <workItem from="1599575324734" duration="1405000" />
+      <workItem from="1599878711818" duration="7402000" />
+      <workItem from="1600172304707" duration="5196000" />
+      <workItem from="1600613266718" duration="1104000" />
+      <workItem from="1600691954956" duration="10000" />
+      <workItem from="1603540917626" duration="5797000" />
+      <workItem from="1617366372568" duration="906000" />
+      <workItem from="1618152099324" duration="7668000" />
+      <workItem from="1618323688756" duration="517000" />
+      <workItem from="1618496915587" duration="1754000" />
+      <workItem from="1618571751433" duration="4632000" />
+      <workItem from="1618714244056" duration="9585000" />
+      <workItem from="1618926100791" duration="5478000" />
+      <workItem from="1619090255568" duration="13763000" />
+      <workItem from="1619186185715" duration="841000" />
+      <workItem from="1619187808861" duration="589000" />
+      <workItem from="1619361380876" duration="1356000" />
+      <workItem from="1619362941255" duration="2685000" />
+      <workItem from="1619439206203" duration="1392000" />
+      <workItem from="1619943754654" duration="11497000" />
+      <workItem from="1620003103192" duration="2113000" />
+      <workItem from="1620225236657" duration="1182000" />
+      <workItem from="1620265103703" duration="579000" />
+      <workItem from="1620287343297" duration="6263000" />
+      <workItem from="1620310087219" duration="1707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestCDPlayers_testPlay - 2020.07.28 at 21h 39m 18s.xml">
+      <configuration name="TestCDPlayers.testPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCDPlayers_testPlay - 2020.07.28 at 21h 42m 31s.xml">
+      <configuration name="TestCDPlayers.testPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCDPlayery_testPlay - 2020.07.28 at 22h 12m 39s.xml">
+      <configuration name="TestCDPlayery.testPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCDPlayery_testPlay - 2020.07.28 at 22h 16m 24s.xml">
+      <configuration name="TestCDPlayery.testPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCDPlayery - 2020.07.28 at 22h 24m 29s.xml">
+      <configuration name="TestCDPlayery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExpressiveConfig_testExpressiveConfig - 2020.07.29 at 21h 52m 53s.xml">
+      <configuration name="TestExpressiveConfig.testExpressiveConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExpressiveConfig_testExpressiveConfig - 2020.07.29 at 21h 54m 37s.xml">
+      <configuration name="TestExpressiveConfig.testExpressiveConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestExpressiveConfig_testExpressiveConfig - 2020.07.29 at 21h 56m 54s.xml">
+      <configuration name="TestExpressiveConfig.testExpressiveConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTrackCount_testTrackCount - 2020.08.01 at 16h 05m 18s.xml">
+      <configuration name="TestTrackCount.testTrackCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTrackCount_testTrackCount - 2020.08.01 at 16h 06m 02s.xml">
+      <configuration name="TestTrackCount.testTrackCount" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205500000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25282714" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44814816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28280962" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32962963" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32962963" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4966443" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49328858" weight="0.4017785" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5033557" side_tool="true" weight="0.2497979" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/test/java/com/sxt/test/TestJson.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/main/java/com/sxt/shiro/realm/ShiroRelam.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/main/java/com/sxt/shiro/realm/ShiroRelam.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/test/java/com/sxt/test/TestMapper.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/test/java/com/sxt/test/TestMapper.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-mvc-shiro-01/src/main/java/com/sxt/shiro/realm/ShiroRelam.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/02-spring-web-01/src/main/java/com/sxt/servlet/Myservlet.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/nio/NioSelectorServer.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/nio/NioSelectorServer.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOClient.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOClient.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOServer.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOServer.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/aio/AIOServer.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/bootstrap/ChannelFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/ThreadPerChannelEventLoopGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="265" column="25" selection-start-line="265" selection-start-column="25" selection-end-line="265" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/util/concurrent/DefaultPromise.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/DefaultChannelPromise.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/bootstrap/AbstractBootstrapConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding>
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1355#1356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="190" column="30" selection-start-line="190" selection-start-column="30" selection-end-line="190" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/SelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="218" column="33" selection-start-line="218" selection-start-column="33" selection-end-line="218" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/ChannelHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/ServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/security/PrivilegedExceptionAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/util/internal/SocketUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="82" column="63" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="63" />
+          <folding>
+            <element signature="e#3016#3217#0" expanded="true" />
+            <element signature="e#3216#3217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/ThreadPerChannelEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="313" column="8" selection-start-line="313" selection-start-column="8" selection-end-line="313" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/security/AccessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="528" lean-forward="true" selection-start-line="528" selection-end-line="528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/SelectedSelectionKeySetSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="328" column="24" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/udt/nio/NioUdtMessageConnectorChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/ChannelOutboundInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/bootstrap/AbstractBootstrap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+          <folding>
+            <element signature="e#5619#5620#0" expanded="true" />
+            <element signature="e#5684#5685#0" expanded="true" />
+            <element signature="e#6867#7353#0" expanded="true" />
+            <element signature="e#7352#7353#0" expanded="true" />
+            <element signature="e#8514#8843#0" expanded="true" />
+            <element signature="e#8842#8843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/server/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1276#1795#0" expanded="true" />
+            <element signature="e#1794#1795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/AbstractChannelHandlerContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="284" column="16" selection-start-line="284" selection-start-column="16" selection-end-line="284" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/DefaultChannelPipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="737" column="45" selection-start-line="737" selection-start-column="45" selection-end-line="737" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/ChannelPipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/AbstractNioMessageChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="100" column="54" selection-start-line="100" selection-start-column="49" selection-end-line="100" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/bootstrap/ServerBootstrap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="240" column="38" selection-start-line="240" selection-start-column="38" selection-end-line="240" selection-end-column="38" />
+          <folding>
+            <element signature="e#5008#5742#0" expanded="true" />
+            <element signature="e#5741#5742#0" expanded="true" />
+            <element signature="e#7801#7941#0" expanded="true" />
+            <element signature="e#7940#7941#0" expanded="true" />
+            <element signature="e#8615#8956#0" expanded="true" />
+            <element signature="e#8955#8956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/MultithreadEventLoopGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding>
+            <element signature="e#1964#1965#0" expanded="true" />
+            <element signature="e#2016#2017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/EventLoopGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/SingleThreadEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125">
+          <caret line="207" column="15" selection-start-line="207" selection-start-column="15" selection-end-line="207" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/SocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="466" column="24" selection-start-line="466" selection-start-column="24" selection-end-line="466" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/AbstractNioChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9207">
+          <caret line="393" column="13" selection-start-line="393" selection-start-column="13" selection-end-line="393" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/socket/nio/NioSocketChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6075">
+          <caret line="293" column="31" selection-start-line="293" selection-start-column="31" selection-end-line="293" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/buffer/ByteBuf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8289">
+          <caret line="334" selection-start-line="334" selection-end-line="334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/buffer/ByteBufAllocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/DefaultMaxBytesRecvByteBufAllocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="105" column="30" lean-forward="true" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+          <folding>
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#4079#4276#0" expanded="true" />
+            <element signature="e#4275#4276#0" expanded="true" />
+            <element signature="e#4345#4346#0" expanded="true" />
+            <element signature="e#4404#4405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/AbstractNioByteChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5076">
+          <caret line="220" column="48" selection-start-line="220" selection-start-column="48" selection-end-line="220" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/AbstractChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8532">
+          <caret line="417" column="95" selection-start-line="417" selection-start-column="95" selection-end-line="417" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/RecvByteBufAllocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/test/java/com/sxt/test/map/TestMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/src/main/java/com/sxt/nio/NioSelectorServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="59" column="54" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/src/main/java/com/sxt/netty/handler/NettyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.35.Final/netty-all-4.1.35.Final.jar!/io/netty/channel/nio/NioEventLoop.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11664">
+          <caret line="484" column="29" selection-start-line="484" selection-start-column="29" selection-end-line="484" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5049">
+          <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
+          <folding>
+            <element signature="e#14414#14415#0" expanded="true" />
+            <element signature="e#14447#14448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Study1/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="692" column="34" selection-start-line="692" selection-start-column="34" selection-end-line="692" selection-end-column="34" />
+          <folding>
+            <element signature="e#19072#19073#0" expanded="true" />
+            <element signature="e#19130#19131#0" expanded="true" />
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-spring-nitty/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="17" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-spring-lucene/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-spring-lucene/src/test/java/com/sxt/test/TestLucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-mvc-shiro-01:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>07-spring-lucene</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

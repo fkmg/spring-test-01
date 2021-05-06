@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- 加载属性文件 -->
+    <properties resource="jdbc.properties"/>
+    <settings>
+        <!-- 延迟加载 默认false -->
+        <setting name="lazyLoadingEnabled" value="true" />
+        <!-- 积极加载 默认true -->
+        <setting name="aggressiveLazyLoading" value="false" />
+        <!--指定 MyBatis 如何自动映射列到字段  NONE, PARTIAL, FULL-->
+        <!--<setting name="autoMappingBehavior" value="NONE"/>-->
+        <setting name="localCacheScope" value="SESSION"/>
+        <!--二级缓存的总开关 默认为false-->
+        <setting name="cacheEnabled" value="true"/>
+    </settings>
+
+</configuration>

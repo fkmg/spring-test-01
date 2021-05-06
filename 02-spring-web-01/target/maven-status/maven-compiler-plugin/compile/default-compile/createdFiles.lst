@@ -1,0 +1,8 @@
+com\sxt\config\WebConfig.class
+com\sxt\config\RootConfig.class
+com\sxt\config\MyWebApplicationInitializer.class
+com\sxt\config\SpittrWebAppInitializer.class
+com\sxt\filter\MyFilter.class
+com\sxt\controller\HomeController.class
+com\sxt\config\FilterApplicationInitializer.class
+com\sxt\servlet\Myservlet.class

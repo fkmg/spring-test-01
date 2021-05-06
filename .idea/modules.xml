@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-spring-test-01/01-spring-test-01.iml" filepath="$PROJECT_DIR$/01-spring-test-01/01-spring-test-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-web-01/02-spring-web-01.iml" filepath="$PROJECT_DIR$/02-spring-web-01/02-spring-web-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-spring-web-02/03-spring-web-02.iml" filepath="$PROJECT_DIR$/03-spring-web-02/03-spring-web-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-spring-web-03/04-spring-web-03.iml" filepath="$PROJECT_DIR$/04-spring-web-03/04-spring-web-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-spring-web-04/05-spring-web-04.iml" filepath="$PROJECT_DIR$/05-spring-web-04/05-spring-web-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-spring-nitty/06-spring-nitty.iml" filepath="$PROJECT_DIR$/06-spring-nitty/06-spring-nitty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-spring-lucene/07-spring-lucene.iml" filepath="$PROJECT_DIR$/07-spring-lucene/07-spring-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-shiro-01/spring-mvc-shiro-01.iml" filepath="$PROJECT_DIR$/spring-mvc-shiro-01/spring-mvc-shiro-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01/spring-netty-01.iml" filepath="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/spring-netty-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02/spring-netty-02.iml" filepath="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/spring-netty-02.iml" />
+    </modules>
+  </component>
+</project>

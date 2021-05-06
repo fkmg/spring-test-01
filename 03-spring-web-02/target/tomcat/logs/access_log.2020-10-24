@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:02:40 +0800] "GET /getEmpList?age=20 HTTP/1.1" 200 77 http-bio-8090-exec-2 324
+127.0.0.1 - - [24/Oct/2020:21:25:09 +0800] "GET /getEmpList?age=21 HTTP/1.1" 200 39 http-bio-8090-exec-4 8
+127.0.0.1 - - [24/Oct/2020:21:27:11 +0800] "GET /hello HTTP/1.1" 200 1629 http-bio-8090-exec-6 4384
+127.0.0.1 - - [24/Oct/2020:21:58:40 +0800] "POST /upload HTTP/1.1" 200 5 http-bio-8090-exec-8 59325

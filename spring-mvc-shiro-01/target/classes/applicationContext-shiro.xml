@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--让spring初始化一个shiro的安全管理器-->
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+        <!--注入我们自定的realm-->
+        <property name="realm" ref="shiroRealm"/>
+        <!--注入缓存管理-->
+        <!--<property name="cacheManager" ref="cacheManager"/>-->
+        <!--注入会话管理器-->
+        <!--<property name="sessionManager" ref="sessionManager"/>-->
+    </bean>
+    <!--自定的relam 从数据库访问用户的认证和授权信息-->
+    <bean id="shiroRealm" class="com.sxt.shiro.realm.ShiroRelam">
+        <property name="credentialsMatcher" ref="credentialsMatcher"/>
+    </bean>
+
+
+
+    <!-- 缓存管理器 -->
+    <!--<bean id="cacheManager" class="org.apache.shiro.cache.ehcache.EhCacheManager"/>-->
+    <!--初始化一个凭证管理器，设置密码的加密算法和规则-->
+    <bean id="credentialsMatcher" class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
+        <property name="hashAlgorithmName" value="md5"/>
+        <property name="hashIterations" value="1"/>
+    </bean>
+
+    <!-- Shiro 的Web过滤器 -->
+    <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+        <property name="securityManager" ref="securityManager"/>
+        <!-- 如果没有认证将要跳转的登陆地址，http可访问的url，
+        如果不在表单认证过虑器FormAuthenticationFilter中指, 定此地址就为身份认证地址 -->
+        <property name="loginUrl" value="/login"/>
+        <!--登录成功的地址-->
+        <property name="successUrl" value="/"/>
+        <!-- 没有权限跳转的地址 -->
+        <property name="unauthorizedUrl" value="/noauth"/>
+
+        <!-- shiro过滤器配置 -->
+        <property name="filters">
+            <map>
+                <entry key="authc" value-ref="formAuthenticationFilter"/>
+            </map>
+        </property>
+        <!-- 配置安全规则 -->
+        <property name="filterChainDefinitions">
+            <value>
+                <!--这些配置都是过滤器的简称-->
+                <!-- 必须通过身份认证方可访问，身份认证的url必须和过虑器中指定的loginUrl一致 -->
+                /login = authc
+                <!-- 退出拦截，请求logout执行退出操作 -->
+                /logout = logout
+                <!-- 无权访问页面 -->
+                /noauth = anon
+                <!--静态资源可以直接访问-->
+                /static/** anon
+                <!-- user表示身份认证通过或通过记住我认证通过的可以访问 -->
+                /** = user
+            </value>
+        </property>
+    </bean>
+
+    <!-- 基于Form表单的身份验证过滤器，
+     不配置将也会注册此过虑器，表单中的用户账号、密码及loginurl将采用默认值
+     建议配置 -->
+    <bean id="formAuthenticationFilter"
+          class="org.apache.shiro.web.filter.authc.FormAuthenticationFilter">
+        <!-- 表单中账号的input名称 -->
+        <property name="usernameParam" value="account"/>
+        <!-- 表单中密码的input名称 -->
+        <property name="passwordParam" value="password"/>
+        <!-- <property name="rememberMeParam" value="rememberMe"/> -->
+        <!-- loginurl：用户登陆地址-->
+        <property name="loginUrl" value="/login"/>
+    </bean>
+
+
+    <!-- 会话管理器 -->
+    <bean id="sessionManager" class="org.apache.shiro.web.session.mgt.DefaultWebSessionManager">
+        <!-- session的失效时长，单位毫秒 -->
+        <property name="globalSessionTimeout" value="600000"/>
+        <!-- 删除失效的session -->
+        <property name="deleteInvalidSessions" value="true"/>
+    </bean>
+</beans>

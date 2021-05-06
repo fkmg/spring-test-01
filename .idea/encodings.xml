@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/01-spring-test-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-web-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-web-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-web-03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-spring-web-04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-nitty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-nitty/spring-netty-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-spring-lucene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc-shiro-01" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/02-spring-web-01" />
+    <file type="web" url="file://$PROJECT_DIR$/03-spring-web-02" />
+    <file type="web" url="file://$PROJECT_DIR$/04-spring-web-03" />
+    <file type="web" url="file://$PROJECT_DIR$/05-spring-web-04" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mvc-shiro-01" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-mvc-shiro-01/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-test-01/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-web-01/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-web-02/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-web-03/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-web-04/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-01/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-nitty/spring-netty-02/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-lucene/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
